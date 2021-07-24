@@ -2,5 +2,5 @@
 
 <img src="imgs/thumb/interface.png">
 
-##  Discription 
+##  Description 
 this project was an interface using CSS & HTML 
